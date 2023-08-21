@@ -1,5 +1,6 @@
 # Calculator App in Flutter
-![image](https://github.com/sunil98660/calculator_app/assets/142016488/36d4b4bd-2a04-4eee-9578-bf3382ea583c)
+![image](https://github.com/sunil98660/calculator_app/assets/142016488/fbb3a001-1d1e-4fc0-8f2c-71e0566bde7e)
+
 
 
 A new Flutter project.
